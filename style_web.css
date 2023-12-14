@@ -1,0 +1,104 @@
+
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: .5em;
+    margin: 0;
+}
+nav ul li{
+   margin-right: auto;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+.icon{
+    
+    margin-left: auto;
+}
+.me{
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+a:visited{
+    color: purple;
+}
+a:hover{color: chartreuse;}
+p{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.me ul li{font-size: 60px;
+    font-family: 'Pacifico';
+}
+.para {
+    background-image: url(bg2.jpg) ;
+    background-size: cover;
+    padding: 20px;
+    display: flex;
+}
+.para_in{
+    box-sizing: border-box;
+    width: 900px;
+    background-color: rgba(255, 235, 205, 0.568);
+    box-shadow: 50px,50px;
+}
+.my{margin-right: auto;}
+.l1{
+    box-sizing: border-box;
+    width: 300px;height: 300px;
+    background-image: url(ard1.jpg);
+    background-size: cover;
+    text-align: center;
+}
+.l2{
+    box-sizing: border-box;
+    width: 300px;height: 300px;
+    background-image: url(wm1.jpeg);
+    background-size: cover;
+    text-align: center;
+}
+.l3{
+    box-sizing: border-box;
+    width: 300px;height: 300px;
+    background-image: url(pg1.png);
+    background-size: contain;
+    text-align: center;
+}
+.works ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: .9em;
+    margin: 0;
+}
+.l1 p{
+    font-size: 40px;
+    background-color: rgba(240, 230, 230, 0.726);
+    color: rgb(20, 20, 19);
+    align-items: center;
+    
+}
+.l2 p{
+    font-size: 40px;
+    background-color: rgba(240, 230, 230, 0.726);
+    color: rgb(20, 20, 19);
+    align-items: center;
+    
+}
+.l3 p{
+    font-size: 40px;
+    background-color: rgba(240, 230, 230, 0.726);
+    color: rgb(20, 20, 19);
+    align-items: center;
+    
+}
